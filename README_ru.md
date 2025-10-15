@@ -43,7 +43,7 @@ LabEx - это интерактивная практическая обучаю�
 
 ## Больше
 
-- 🔗 [ Курсы программирования](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [ Проекты программирования](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [ Бесплатные туториалы](https://github.com/labex-labs/devops-free-tutorials)
+- 🔗 [DevOps Курсы программирования](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [DevOps Проекты программирования](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [DevOps Бесплатные туториалы](https://github.com/labex-labs/devops-free-tutorials)
 
