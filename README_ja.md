@@ -43,7 +43,7 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 
 ## その他
 
-- 🔗 [ プログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [ プログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [ 無料チュートリアル](https://github.com/labex-labs/devops-free-tutorials)
+- 🔗 [DevOps プログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [DevOps プログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [DevOps 無料チュートリアル](https://github.com/labex-labs/devops-free-tutorials)
 
