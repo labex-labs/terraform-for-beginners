@@ -43,7 +43,7 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 
 ## 더 보기
 
-- 🔗 [ 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [ 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [ 무료 튜토리얼](https://github.com/labex-labs/devops-free-tutorials)
+- 🔗 [DevOps 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [DevOps 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [DevOps 무료 튜토리얼](https://github.com/labex-labs/devops-free-tutorials)
 
