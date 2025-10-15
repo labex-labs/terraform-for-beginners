@@ -43,7 +43,7 @@ Erfahren Sie mehr über [LabEx VM](https://support.labex.io/using-labex/virtual-
 
 ## Mehr
 
-- 🔗 [ Programmierungskurse](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [ Programmierprojekte](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [ Kostenlose Tutorials](https://github.com/labex-labs/devops-free-tutorials)
+- 🔗 [DevOps Programmierungskurse](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [DevOps Programmierprojekte](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [DevOps Kostenlose Tutorials](https://github.com/labex-labs/devops-free-tutorials)
 
