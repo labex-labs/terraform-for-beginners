@@ -43,7 +43,7 @@ En savoir plus sur [LabEx VM](https://support.labex.io/using-labex/virtual-machi
 
 ## Plus
 
-- 🔗 [ Cours de Programmation](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [ Projets de Programmation](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [ Tutoriels Gratuits](https://github.com/labex-labs/devops-free-tutorials)
+- 🔗 [DevOps Cours de Programmation](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [DevOps Projets de Programmation](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [DevOps Tutoriels Gratuits](https://github.com/labex-labs/devops-free-tutorials)
 
