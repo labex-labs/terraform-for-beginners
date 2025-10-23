@@ -16,20 +16,20 @@ Neste curso, aprenda os fundamentos de Infraestrutura como Código (IaC) usando 
 
 ## Exercícios
 
-|   Índice | Nome                                                 | Dificuldade   | Prática                                                                                                                |
-|----------|------------------------------------------------------|---------------|------------------------------------------------------------------------------------------------------------------------|
-|        1 | 📖 🆓 Instalação do Terraform                        | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-terraform-installation-632659'>Iniciar Lab</a>            |
-|        2 | 📖 🆓 Inicialização de Projeto Terraform             | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-terraform-project-initialization-632662'>Iniciar Lab</a>  |
-|        3 | 📖 🆓 Criação Básica de Recursos com Terraform       | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-terraform-basic-resource-creation-632658'>Iniciar Lab</a> |
-|        4 | 📖 🆓 Uso de Variáveis no Terraform                  | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-terraform-variables-usage-632665'>Iniciar Lab</a>         |
-|        5 | 📖 🆓 Gerenciamento de Saídas (Outputs) do Terraform | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-terraform-outputs-management-632661'>Iniciar Lab</a>      |
-|        6 | 📖 🆓 Implementação de Módulos Terraform             | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-terraform-modules-implementation-632660'>Iniciar Lab</a>  |
-|        7 | 📖 🆓 Gerenciamento de Estado do Terraform           | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-terraform-state-management-632664'>Iniciar Lab</a>        |
-|        8 | 📖 🆓 Destruição de Recursos do Terraform            | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-terraform-resource-destruction-632663'>Iniciar Lab</a>    |
+|   Índice | Nome                                                 | Dificuldade   | Prática                                                                                                                                          |
+|----------|------------------------------------------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+|        1 | 🧩 🆓 Instalação do Terraform                        | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-terraform-installation-632659?course=terraform-for-beginners'>Iniciar Lab</a>            |
+|        2 | 🧩 🆓 Inicialização de Projeto Terraform             | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-terraform-project-initialization-632662?course=terraform-for-beginners'>Iniciar Lab</a>  |
+|        3 | 🧩 🆓 Criação Básica de Recursos com Terraform       | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-terraform-basic-resource-creation-632658?course=terraform-for-beginners'>Iniciar Lab</a> |
+|        4 | 🧩 🆓 Uso de Variáveis no Terraform                  | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-terraform-variables-usage-632665?course=terraform-for-beginners'>Iniciar Lab</a>         |
+|        5 | 🧩 🆓 Gerenciamento de Saídas (Outputs) do Terraform | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-terraform-outputs-management-632661?course=terraform-for-beginners'>Iniciar Lab</a>      |
+|        6 | 🧩 🆓 Implementação de Módulos Terraform             | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-terraform-modules-implementation-632660?course=terraform-for-beginners'>Iniciar Lab</a>  |
+|        7 | 🧩 🆓 Gerenciamento de Estado do Terraform           | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-terraform-state-management-632664?course=terraform-for-beginners'>Iniciar Lab</a>        |
+|        8 | 🧩 🆓 Destruição de Recursos do Terraform            | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-terraform-resource-destruction-632663?course=terraform-for-beginners'>Iniciar Lab</a>    |
 
 ## Sobre LabEx
 
-LabEx é uma plataforma de aprendizagem interativa e prática dedicada à programação e tecnologia. Combina laboratórios, assistência de IA e máquinas virtuais para fornecer uma experiência de aprendizagem prática sem vídeos. Com uma abordagem rigorosa de 'Aprender Fazendo', ambientes online interativos no navegador com verificações automatizadas passo a passo, organização de conteúdo estruturada com o sistema baseado em Árvore de Habilidades, e um recurso de aprendizagem crescente de 30 Árvores de Habilidades e mais de 6.000 Laboratórios, LabEx oferece educação prática integral. A plataforma inclui o assistente de aprendizagem Labby, construído sobre os últimos modelos de IA, fornecendo uma experiência de aprendizagem conversacional.
+[LabEx](https://labex.io) é uma plataforma de aprendizagem interativa e prática dedicada à programação e tecnologia. Combina laboratórios, assistência de IA e máquinas virtuais para fornecer uma experiência de aprendizagem prática sem vídeos. Com uma abordagem rigorosa de 'Aprender Fazendo', ambientes online interativos no navegador com verificações automatizadas passo a passo, organização de conteúdo estruturada com o sistema baseado em Árvore de Habilidades, e um recurso de aprendizagem crescente de 30 Árvores de Habilidades e mais de 6.000 Laboratórios, [LabEx](https://labex.io) oferece educação prática integral. A plataforma inclui o assistente de aprendizagem Labby, construído sobre os últimos modelos de IA, fornecendo uma experiência de aprendizagem conversacional.
 
 ## Mais
 
