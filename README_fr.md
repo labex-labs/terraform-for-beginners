@@ -16,20 +16,20 @@ Dans ce cours, apprenez les fondamentaux de l'Infrastructure as Code (IaC) avec 
 
 ## Exercices
 
-|   Index | Nom                                                | Difficulté   | Pratique                                                                                                                    |
-|---------|----------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------------|
-|       1 | 📖 🆓 Installation de Terraform                    | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/linux-terraform-installation-632659'>Commencer le Lab</a>            |
-|       2 | 📖 🆓 Initialisation de Projet Terraform           | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/linux-terraform-project-initialization-632662'>Commencer le Lab</a>  |
-|       3 | 📖 🆓 Création de Ressource de Base avec Terraform | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/linux-terraform-basic-resource-creation-632658'>Commencer le Lab</a> |
-|       4 | 📖 🆓 Utilisation des Variables Terraform          | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/linux-terraform-variables-usage-632665'>Commencer le Lab</a>         |
-|       5 | 📖 🆓 Gestion des Sorties (Outputs) Terraform      | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/linux-terraform-outputs-management-632661'>Commencer le Lab</a>      |
-|       6 | 📖 🆓 Implémentation des Modules Terraform         | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/linux-terraform-modules-implementation-632660'>Commencer le Lab</a>  |
-|       7 | 📖 🆓 Gestion de l'État Terraform                  | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/linux-terraform-state-management-632664'>Commencer le Lab</a>        |
-|       8 | 📖 🆓 Destruction de Ressources Terraform          | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/linux-terraform-resource-destruction-632663'>Commencer le Lab</a>    |
+|   Index | Nom                                                | Difficulté   | Pratique                                                                                                                                              |
+|---------|----------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       1 | 🧩 🆓 Installation de Terraform                    | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/linux-terraform-installation-632659?course=terraform-for-beginners'>Commencer le Lab</a>            |
+|       2 | 🧩 🆓 Initialisation de Projet Terraform           | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/linux-terraform-project-initialization-632662?course=terraform-for-beginners'>Commencer le Lab</a>  |
+|       3 | 🧩 🆓 Création de Ressource de Base avec Terraform | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/linux-terraform-basic-resource-creation-632658?course=terraform-for-beginners'>Commencer le Lab</a> |
+|       4 | 🧩 🆓 Utilisation des Variables Terraform          | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/linux-terraform-variables-usage-632665?course=terraform-for-beginners'>Commencer le Lab</a>         |
+|       5 | 🧩 🆓 Gestion des Sorties (Outputs) Terraform      | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/linux-terraform-outputs-management-632661?course=terraform-for-beginners'>Commencer le Lab</a>      |
+|       6 | 🧩 🆓 Implémentation des Modules Terraform         | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/linux-terraform-modules-implementation-632660?course=terraform-for-beginners'>Commencer le Lab</a>  |
+|       7 | 🧩 🆓 Gestion de l'État Terraform                  | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/linux-terraform-state-management-632664?course=terraform-for-beginners'>Commencer le Lab</a>        |
+|       8 | 🧩 🆓 Destruction de Ressources Terraform          | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/linux-terraform-resource-destruction-632663?course=terraform-for-beginners'>Commencer le Lab</a>    |
 
 ## À propos de LabEx
 
-LabEx est une plateforme d'apprentissage interactive et pratique dédiée au codage et à la technologie. Elle combine des laboratoires, une assistance IA et des machines virtuelles pour offrir une expérience d'apprentissage pratique sans vidéo. Avec une approche stricte 'Apprendre en Faisant', des environnements en ligne interactifs dans le navigateur avec des vérifications automatisées étape par étape, une organisation structurée du contenu avec le système basé sur l'Arbre de Compétences, et une ressource d'apprentissage croissante de 30 Arbres de Compétences et plus de 6 000 Laboratoires, LabEx offre une éducation pratique complète. La plateforme comprend l'assistant d'apprentissage Labby, construit sur les derniers modèles d'IA, offrant une expérience d'apprentissage conversationnelle.
+[LabEx](https://labex.io) est une plateforme d'apprentissage interactive et pratique dédiée au codage et à la technologie. Elle combine des laboratoires, une assistance IA et des machines virtuelles pour offrir une expérience d'apprentissage pratique sans vidéo. Avec une approche stricte 'Apprendre en Faisant', des environnements en ligne interactifs dans le navigateur avec des vérifications automatisées étape par étape, une organisation structurée du contenu avec le système basé sur l'Arbre de Compétences, et une ressource d'apprentissage croissante de 30 Arbres de Compétences et plus de 6 000 Laboratoires, [LabEx](https://labex.io) offre une éducation pratique complète. La plateforme comprend l'assistant d'apprentissage Labby, construit sur les derniers modèles d'IA, offrant une expérience d'apprentissage conversationnelle.
 
 ## Plus
 
