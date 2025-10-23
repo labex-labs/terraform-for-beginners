@@ -16,20 +16,20 @@
 
 ## 演習
 
-|   インデックス | 名前                                 | 難易度   | 練習                                                                                                                  |
-|----------------|--------------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------|
-|              1 | 📖 🆓 Terraform のインストール       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-terraform-installation-632659'>ラボを開始</a>            |
-|              2 | 📖 🆓 Terraform プロジェクトの初期化 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-terraform-project-initialization-632662'>ラボを開始</a>  |
-|              3 | 📖 🆓 Terraform 基本リソース作成     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-terraform-basic-resource-creation-632658'>ラボを開始</a> |
-|              4 | 📖 🆓 Terraform 変数の使い方         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-terraform-variables-usage-632665'>ラボを開始</a>         |
-|              5 | 📖 🆓 Terraform 出力の管理           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-terraform-outputs-management-632661'>ラボを開始</a>      |
-|              6 | 📖 🆓 Terraform モジュールの実装     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-terraform-modules-implementation-632660'>ラボを開始</a>  |
-|              7 | 📖 🆓 Terraform ステート管理         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-terraform-state-management-632664'>ラボを開始</a>        |
-|              8 | 📖 🆓 Terraform リソースの破棄       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-terraform-resource-destruction-632663'>ラボを開始</a>    |
+|   インデックス | 名前                                 | 難易度   | 練習                                                                                                                                            |
+|----------------|--------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+|              1 | 🧩 🆓 Terraform のインストール       | 初級     | <a target='_blank' href='https://labex.io/ja/labs/linux-terraform-installation-632659?course=terraform-for-beginners'>ラボを開始</a>            |
+|              2 | 🧩 🆓 Terraform プロジェクトの初期化 | 初級     | <a target='_blank' href='https://labex.io/ja/labs/linux-terraform-project-initialization-632662?course=terraform-for-beginners'>ラボを開始</a>  |
+|              3 | 🧩 🆓 Terraform 基本リソース作成     | 初級     | <a target='_blank' href='https://labex.io/ja/labs/linux-terraform-basic-resource-creation-632658?course=terraform-for-beginners'>ラボを開始</a> |
+|              4 | 🧩 🆓 Terraform 変数の使い方         | 初級     | <a target='_blank' href='https://labex.io/ja/labs/linux-terraform-variables-usage-632665?course=terraform-for-beginners'>ラボを開始</a>         |
+|              5 | 🧩 🆓 Terraform 出力の管理           | 初級     | <a target='_blank' href='https://labex.io/ja/labs/linux-terraform-outputs-management-632661?course=terraform-for-beginners'>ラボを開始</a>      |
+|              6 | 🧩 🆓 Terraform モジュールの実装     | 初級     | <a target='_blank' href='https://labex.io/ja/labs/linux-terraform-modules-implementation-632660?course=terraform-for-beginners'>ラボを開始</a>  |
+|              7 | 🧩 🆓 Terraform ステート管理         | 初級     | <a target='_blank' href='https://labex.io/ja/labs/linux-terraform-state-management-632664?course=terraform-for-beginners'>ラボを開始</a>        |
+|              8 | 🧩 🆓 Terraform リソースの破棄       | 初級     | <a target='_blank' href='https://labex.io/ja/labs/linux-terraform-resource-destruction-632663?course=terraform-for-beginners'>ラボを開始</a>    |
 
 ## LabEx について
 
-LabEx は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。動画なしの独自の実践ラボによる厳格な「実践による学習」アプローチ、ブラウザ内のインタラクティブなオンライン環境で自動化されたステップバイステップのチェック機能、スキルツリーベースのシステムによる構造化されたコンテンツ組織、30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソースにより、LabEx は包括的な実践教育を提供します。プラットフォームには、最新の AI モデルを基盤とした学習アシスタント Labby が含まれており、対話型学習体験を提供します。
+[LabEx](https://labex.io) は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。動画なしの独自の実践ラボによる厳格な「実践による学習」アプローチ、ブラウザ内のインタラクティブなオンライン環境で自動化されたステップバイステップのチェック機能、スキルツリーベースのシステムによる構造化されたコンテンツ組織、30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソースにより、[LabEx](https://labex.io) は包括的な実践教育を提供します。プラットフォームには、最新の AI モデルを基盤とした学習アシスタント Labby が含まれており、対話型学習体験を提供します。
 
 ## その他
 
