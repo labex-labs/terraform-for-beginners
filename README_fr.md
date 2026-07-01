@@ -1,39 +1,31 @@
 # Terraform pour les Débutants
 
-## Langues
+**Langues:** [English](README.md) · [简体中文](README_zh.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [日本語](README_ja.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md)
 
-🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
-
-[![Terraform pour les Débutants](https://cover-creator.labex.io/terraform-for-beginners.png?lang=fr)](https://labex.io/fr/courses/terraform-for-beginners)
-
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/fr/courses/terraform-for-beginners)
+<p align="center">
+  <a href="https://labex.io/fr/courses/terraform-for-beginners">
+    <img src="https://course-cover.labex.io/terraform-for-beginners.png?lang=fr" alt="Terraform pour les Débutants">
+  </a>
+</p>
 
 Dans ce cours, apprenez les fondamentaux de l'Infrastructure as Code (IaC) avec Terraform. Explorez l'installation, la configuration du projet, la création de ressources, les variables, les sorties (outputs), les modules, la gestion de l'état (state management) et la destruction des ressources.
 
-![DevOps](https://img.shields.io/badge/DevOps-whitesmoke?style=for-the-badge&logo=devops)
-![Terraform](https://img.shields.io/badge/Terraform-whitesmoke?style=for-the-badge&logo=terraform)
-
+[Commencer le cours sur LabEx](https://labex.io/fr/courses/terraform-for-beginners)
 
 ## Exercices
 
-|   Index | Nom                                                | Difficulté   | Pratique                                                                                                                                              |
-|---------|----------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-|       1 | 🧩 🆓 Installation de Terraform                    | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/linux-terraform-installation-632659?course=terraform-for-beginners'>Commencer le Lab</a>            |
-|       2 | 🧩 🆓 Initialisation de Projet Terraform           | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/linux-terraform-project-initialization-632662?course=terraform-for-beginners'>Commencer le Lab</a>  |
-|       3 | 🧩 🆓 Création de Ressource de Base avec Terraform | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/linux-terraform-basic-resource-creation-632658?course=terraform-for-beginners'>Commencer le Lab</a> |
-|       4 | 🧩 🆓 Utilisation des Variables Terraform          | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/linux-terraform-variables-usage-632665?course=terraform-for-beginners'>Commencer le Lab</a>         |
-|       5 | 🧩 🆓 Gestion des Sorties (Outputs) Terraform      | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/linux-terraform-outputs-management-632661?course=terraform-for-beginners'>Commencer le Lab</a>      |
-|       6 | 🧩 🆓 Implémentation des Modules Terraform         | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/linux-terraform-modules-implementation-632660?course=terraform-for-beginners'>Commencer le Lab</a>  |
-|       7 | 🧩 🆓 Gestion de l'État Terraform                  | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/linux-terraform-state-management-632664?course=terraform-for-beginners'>Commencer le Lab</a>        |
-|       8 | 🧩 🆓 Destruction de Ressources Terraform          | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/linux-terraform-resource-destruction-632663?course=terraform-for-beginners'>Commencer le Lab</a>    |
+|   Index | Nom                                           | Difficulté   | Pratique                                                                                                                                        |
+|---------|-----------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+|       1 | Installation de Terraform                     | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/terraform-installation-632659?course=terraform-for-beginners'>Commencer le lab</a>            |
+|       2 | Initialisation d'un projet Terraform          | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/terraform-project-initialization-632662?course=terraform-for-beginners'>Commencer le lab</a>  |
+|       3 | Création de ressources de base avec Terraform | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/terraform-basic-resource-creation-632658?course=terraform-for-beginners'>Commencer le lab</a> |
+|       4 | Utilisation des Variables Terraform           | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/terraform-variables-usage-632665?course=terraform-for-beginners'>Commencer le lab</a>         |
+|       5 | Gestion des sorties (outputs) Terraform       | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/terraform-outputs-management-632661?course=terraform-for-beginners'>Commencer le lab</a>      |
+|       6 | Gestion des sorties (outputs) Terraform       | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/terraform-modules-implementation-632660?course=terraform-for-beginners'>Commencer le lab</a>  |
+|       7 | Gestion de l'État Terraform                   | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/terraform-state-management-632664?course=terraform-for-beginners'>Commencer le lab</a>        |
+|       8 | Destruction de Ressources Terraform           | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/terraform-resource-destruction-632663?course=terraform-for-beginners'>Commencer le lab</a>    |
 
-## À propos de LabEx
+## About LabEx
 
-[LabEx](https://labex.io) est une plateforme d'apprentissage interactive et pratique dédiée au codage et à la technologie. Elle combine des laboratoires, une assistance IA et des machines virtuelles pour offrir une expérience d'apprentissage pratique sans vidéo. Avec une approche stricte 'Apprendre en Faisant', des environnements en ligne interactifs dans le navigateur avec des vérifications automatisées étape par étape, une organisation structurée du contenu avec le système basé sur l'Arbre de Compétences, et une ressource d'apprentissage croissante de 30 Arbres de Compétences et plus de 6 000 Laboratoires, [LabEx](https://labex.io) offre une éducation pratique complète. La plateforme comprend l'assistant d'apprentissage Labby, construit sur les derniers modèles d'IA, offrant une expérience d'apprentissage conversationnelle.
-
-## Plus
-
-- 🔗 [DevOps Cours de Programmation](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [DevOps Projets de Programmation](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [DevOps Tutoriels Gratuits](https://github.com/labex-labs/devops-free-tutorials)
+<div align="left"><p><a href="https://labex.io"><strong>LabEx</strong></a> is a <strong>hands-on learning platform for beginners</strong>.</p><p>Explore <a href="https://labex.io/learn/linux"><strong>Linux</strong></a>, <a href="https://labex.io/learn/devops"><strong>DevOps</strong></a>, <a href="https://labex.io/learn/cybersecurity"><strong>Cybersecurity</strong></a>, and <strong>more</strong> — all directly in your browser.</p><p>Learn step by step through <strong>interactive labs</strong>, <strong>guided exercises</strong>, and <strong>real-world projects</strong>. 🌱<br />No setup, no stress — just practice and grow your skills by doing.</p><br /><p><a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="54" /></a>&nbsp;<a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" alt="Download on the Mac App Store" height="52" /></a></p><br /><p>📖 Need help? Visit our <a href="https://support.labex.io/">Help Center</a> or email info@labex.io</p></div>
 
